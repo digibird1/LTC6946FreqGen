@@ -1,0 +1,1 @@
+This project is a PCB design for the LTC6946 Integer -N synthesizer from Linear Technology. The PCB is design in KiCAD and the ATMEL MEGA MCU is programmed with help of the Arduino IDE. A LCD display is used for stand alone control.
